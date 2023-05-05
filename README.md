@@ -4,7 +4,4 @@
 - 💞️ I’m looking to collaborate on any projects where I can practice my skills and I am always open to just chat and pick each others brains!
 - 📫 How to reach me KimberZaparolli5@gmail.com 
 
-<!---
-KimberlyZaparolli/KimberlyZaparolli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
